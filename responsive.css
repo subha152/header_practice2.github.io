@@ -1,0 +1,268 @@
+@media(max-width: 2560px ){
+
+}
+@media(max-width: 1920px ){
+}
+@media(max-width:1800px){
+
+}
+@media(max-width:1680px){
+    #header_image {
+        background-image: url(images/background.png);
+        height: 700px;
+        width: 100%;
+        background-repeat: no-repeat;
+    }
+
+}
+@media(max-width:1440px){
+
+}
+@media(max-width:1366px){
+
+}
+@media(max-width:1280px){
+}
+@media(max-width:1080px){
+
+}
+@media(max-width:1024px){
+
+}
+@media(max-width:991px){
+    .header_hr {
+        margin: 34px 0 20px 0;
+    }
+    .header_hr {
+        font-size: 46px;
+    }
+    .header_pr {
+        font-size: 21px;
+    }
+    .btn_pt {
+        margin-top: 20px;
+    }
+    .btn {
+        padding: 4px 26px;
+        border-radius: 20px;
+    }
+    .nav-item {
+        font-size: 21px;
+        padding-left: 425px;
+    }
+    img.image-fluid {
+        width: 90px;
+        height: 83px;
+    }
+    
+
+}
+@media(max-width:812px){
+    .header_hr {
+        margin: 33px 0 23px 0;
+    }
+    .header_hr {
+
+        font-weight: bold;
+        font-size: 46px;
+    }
+    .header_pr {
+        font-size: 19px;
+    }
+    .btn_pt {
+        margin-top: 19px;
+    }
+    .nav-item {
+        font-size: 19px;
+        padding-left: 340px;
+    }
+    .btn {
+        padding: 6px 21px;
+        border-radius: 20px;
+    }
+    #header_image {
+        height: 654px;
+    }
+
+}
+@media(max-width:667px){
+
+    .header_hr {
+        margin: 30px 0 20px 0;
+    }
+    .header_pr {
+        font-size: 19px;
+    }
+    .header_hr {
+        font-weight: bold;
+        font-size: 36px;
+    }
+    .btn {
+        padding: 6px 29px;
+        border-radius: 20px;
+    }
+    .btn_pt {
+        margin-top: 22px;
+    }
+    .nav-item {
+        font-size: 18px;
+        padding-left: 274px;
+    }
+    img.image-fluid {
+        width: 85px;
+        height: 80px;
+    }
+    #header_image {
+        height: 623px;
+        width: 100%;
+    }
+    input.btn {
+        font-size: 13px;
+    }
+}
+@media(max-width:540px){
+    .header_hr {
+        font-size: 33px;
+    }
+    .header_hr {
+        margin: 32px 0 15px 0;
+    }
+    .header_pr {
+        font-size: 15px;
+    }
+    .nav-item {
+        font-size: 15px;
+        padding-left: 215px;
+    }
+    .btn {
+        padding: 7px 15px;
+        border-radius: 20px;
+    }
+    .btn_pt {
+        margin-top: 21px;
+    }
+    input.btn {
+        font-size: 13px;
+    }
+    img.image-fluid {
+        width: 50px;
+        height: 50px;
+    }
+    #header_image {
+        height: 580px;
+        width: 100%;
+    }
+
+}
+@media(max-width:484px){
+    .header_pr {
+        font-size: 13px;
+    }
+    .header_hr {
+        margin: 34px 0 21px 0;
+    }
+    .header_hr {
+        font-size: 30px;
+    }
+    img.image-fluid {
+        height: 50px;
+        width: 50px;
+    }
+    #header_image {
+        height: 673px;
+        width: 100%;
+    }
+    .nav-item {
+        font-size: 14px;
+        padding-left: 196px;
+    }
+    #header_image {
+        height: 562px;
+        width: 100%;
+    }
+    .btn {
+
+        padding: 5px 17px;
+        border-radius: 20px;
+    }
+    .btn_pt {
+        margin-top: 17px;
+    }
+    input.btn {
+        font-size: 13px;
+    }
+
+}
+@media(max-width:420px){
+    .header_hr {
+        font-size: 21px;
+    }
+    .header_pr {
+        font-size: 14px;
+    }
+    .nav-item {
+        font-size: 14px;
+        padding-left: 164px;
+    }
+    .btn {
+        padding: 6px 22px;
+        border-radius: 22px;
+    }
+    .btn_pt {
+        margin-top: 17px;
+    }
+    input.btn {
+        font-size: 14px;
+    }
+    #header_image {
+        height: 549px;
+        width: 100%;
+    }
+    .image-fluid {
+        margin-right: 400px;
+        height: 50px;
+        width: 50px;
+    }
+}
+@media(max-width:375px){
+    .header_hr {
+        font-size: 11px;
+    }
+    .header_pr {
+        font-size: 5px;
+        text-align: center;
+    }
+    .header_hr {
+        margin: 4px 0 6px 0;
+        text-align: center;
+    }
+    .header_hr_pr {
+        margin-left: 8px;
+    }
+
+    .btn_pt {
+        margin-top: -12px;
+        text-align: center;
+    }
+    .btn {
+        padding: 1px 4px;
+        border-radius: 20px;
+        font-size: 5px;
+    }
+    .nav-item {
+        font-size: 6px;
+        padding-left: 23px;
+        font-weight: 500;
+    }
+    .image-fluid {
+    height: 29px;
+    width: 33px;
+    }
+    input.btn {
+        font-size: 12px;
+    }
+#header_image {
+    height: 320px;
+    width: 100%;
+  }
+}
